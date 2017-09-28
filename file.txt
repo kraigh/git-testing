@@ -1,3 +1,5 @@
 This is a non-text file.
 
 This is a new line.
+
+This is line 5
