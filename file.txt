@@ -1,3 +1,6 @@
 This is a definitely-text file.
 
+This is a non-text file.
+
+
 This is a new line.
