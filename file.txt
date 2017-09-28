@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is line 3
+=======
+This is line 2
+>>>>>>> 92cd4874ee0dafef36b5c1542aca7178e5d98ca5
 
 This is a definitely-text file.
 
